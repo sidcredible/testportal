@@ -1,0 +1,290 @@
+.mediaViewInfo {
+	--web-view-name: Test Portal Login;
+	--web-view-id: Test_Portal_Login;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Test_Portal_Login;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Test_Portal_Login {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(231,242,255,1);
+	overflow: hidden;
+	--web-view-name: Test Portal Login;
+	--web-view-id: Test_Portal_Login;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+.Path_352 {
+	overflow: visible;
+	position: absolute;
+	width: 1148.563px;
+	height: 1090.834px;
+	left: 771.771px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#csi_logo_vector_01___Copy {
+	position: absolute;
+	width: 136px;
+	height: 136px;
+	left: 88px;
+	top: 105px;
+	overflow: visible;
+}
+#COMPUTER_SOCIETY__OF_INDIA {
+	position: absolute;
+	left: 203px;
+	top: 112px;
+	overflow: visible;
+	width: 561px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,75,124,1);
+}
+#Group_7 {
+	position: absolute;
+	width: 448px;
+	height: 487px;
+	left: 184px;
+	top: 443px;
+	overflow: visible;
+}
+.Rectangle_1 {
+	filter: drop-shadow(5px 20px 20px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 509px;
+	height: 548px;
+	left: 0px;
+	top: 0px;
+}
+#Group_159 {
+	position: absolute;
+	width: 346px;
+	height: 65px;
+	left: 236px;
+	top: 790px;
+	overflow: visible;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 346px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+#LOGIN {
+	position: absolute;
+	left: 123px;
+	top: 14px;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#CINE__20 {
+	position: absolute;
+	left: 338px;
+	top: 492px;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Motor Oil 1937 M54;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,75,124,1);
+}
+#Group_163 {
+	position: absolute;
+	width: 346px;
+	height: 65px;
+	left: 235px;
+	top: 585px;
+	overflow: visible;
+}
+#Group_162 {
+	position: absolute;
+	width: 346px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 1s snap;
+	--web-action-type: page;
+	--web-action-target: Test_Portal_Login___1.html;
+	cursor: pointer;
+}
+.Rectangle_69 {
+	position: absolute;
+	overflow: visible;
+	width: 346px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+#Username {
+	opacity: 0.7;
+	position: absolute;
+	left: 118px;
+	top: 19px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(46,107,153,1);
+}
+#users {
+	position: absolute;
+	width: 39.887px;
+	height: 39.887px;
+	left: 21px;
+	top: 13px;
+	overflow: visible;
+}
+#Group_161 {
+	position: absolute;
+	width: 39.887px;
+	height: 39.887px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_355 {
+	overflow: visible;
+	position: absolute;
+	width: 39.887px;
+	height: 39.887px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_164 {
+	position: absolute;
+	width: 346px;
+	height: 65px;
+	left: 235px;
+	top: 684px;
+	overflow: visible;
+}
+#Group_162_gx {
+	position: absolute;
+	width: 346px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_69_gy {
+	position: absolute;
+	overflow: visible;
+	width: 346px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+#Password {
+	opacity: 0.7;
+	position: absolute;
+	left: 118px;
+	top: 19px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(46,107,153,1);
+}
+#tools_and_utensils {
+	position: absolute;
+	width: 29.125px;
+	height: 39.89px;
+	left: 262px;
+	top: 697px;
+	overflow: visible;
+}
+.Path_353 {
+	overflow: visible;
+	position: absolute;
+	width: 2.337px;
+	height: 7.178px;
+	left: 13.394px;
+	top: 22.765px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_354 {
+	overflow: visible;
+	position: absolute;
+	width: 29.125px;
+	height: 39.89px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_356 {
+	opacity: 0;
+}
+.Path_356 {
+	overflow: visible;
+	position: absolute;
+	width: 9.948px;
+	height: 10.533px;
+	transform: matrix(1,0,0,1,427.1592,494.0063) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Not_Registered_Yet__ {
+	position: absolute;
+	left: 378px;
+	top: 886px;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,75,124,1);
+}
